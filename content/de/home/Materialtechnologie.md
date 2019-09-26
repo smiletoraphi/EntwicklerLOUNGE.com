@@ -41,6 +41,7 @@ subtitle = ""
 [design.background]
   # Background color.
   # color = "#f5f5f5"
+  
   # color = "#ffffff"
   
 [advanced]

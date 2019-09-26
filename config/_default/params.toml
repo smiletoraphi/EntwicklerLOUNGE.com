@@ -107,6 +107,7 @@ office_hours = ["Monday to Sunday 00:00 to 24:00"]
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
+  {icon = "user-friends", icon_pack = "fas", name = "Sponsor", link = "https://fe-p.com"},
 #  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://linkedin.com/in/raphael-friedli"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Call", link = "skype:echo123?call"},
  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/RaphaelFriedli"},
